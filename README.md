@@ -10,6 +10,7 @@ LRNR is a quiz generation application that uses the **Claude AI API** to create 
 ## Table of Contents
 - [Features](#features)
 - [Tech Stack](#tech-stack)
+- [Screenshot](#screenshot)
 - [Installation](#installation-instructions)
 - [API Documentation](#api-documentation)
 - [Contributors](#meet-the-team)
