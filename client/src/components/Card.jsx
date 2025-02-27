@@ -2,6 +2,7 @@
 
 // Importing HomeCard stylesheet
 import './Card.scss'
+import React from "react";
 
 export default function Card({ icon, cardHeading, cardText }) {
   return (
